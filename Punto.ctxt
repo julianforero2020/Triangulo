@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=pX\ pY
+comment1.target=Punto(double,\ double)
+comment2.params=
+comment2.target=double\ darX()
+comment3.params=
+comment3.target=double\ darY()
+comment4.params=pX
+comment4.target=void\ cambiarX(double)
+comment5.params=pY
+comment5.target=void\ cambiarY(double)
+numComments=6
